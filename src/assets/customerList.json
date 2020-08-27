@@ -1,0 +1,33 @@
+{
+    "CustomerData":[{
+        "name": "Customer1",
+        "email": "c1@gmail.com",
+        "contact": "7878459632",
+        "place": "india"
+    },
+    {
+        "name": "Customer2",
+        "email": "c2@gmail.com",
+        "contact": "7878459632",
+        "place": "india"
+    },
+    {
+        "name": "Customer3",
+        "email": "c3@gmail.com",
+        "contact": "7878459632",
+        "place": "india"
+    },
+    {
+        "name": "Customer4",
+        "email": "c4@gmail.com",
+        "contact": "7878459632",
+        "place": "india"
+    },
+    {
+        "name": "Customer5",
+        "email": "c5@gmail.com",
+        "contact": "7878459632",
+        "place": "india"
+    }
+]
+}

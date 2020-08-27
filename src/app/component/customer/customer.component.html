@@ -1,0 +1,13 @@
+<h2>Customer List!</h2>
+<table>
+    <tr *ngFor="let cData of customerList.CustomerData">
+        <td>{{cData.name}}</td>
+        <td>{{cData.email}}</td>
+        <td>{{cData.place}}</td>
+        <td>{{cData.contact}}</td>
+        <td>
+            <a href="javascript:void(0)" (click)="editProfile(cData)">Edit</a>
+            <app-customer-profile [selectedData]="cData"></app-customer-profile>
+        </td>
+    </tr>
+</table>
